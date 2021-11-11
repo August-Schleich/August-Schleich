@@ -2,18 +2,10 @@
 
 My name is August and im a software developer based in SF Bay Area! 
 
-✍️    <h4>Blog & Articles<h4>
+✍️    **Blog & Articles**
 
-Apart from coding i also maintain a blog on my website [a link](AugustSchleich.com)
+  Apart from coding i also maintain a blog on my website <a href='google.com'>AugustSchleich.com</a>
 
-⚙️  Technologies And Tools
-
-
-
-<!--
-**August-Schleich/August-Schleich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
