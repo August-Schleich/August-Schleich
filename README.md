@@ -4,7 +4,7 @@ My name is August and im a software developer based in SF Bay Area!
 
 ✍️    Blog & Articles
 
-Apart from coding i also maintain a blog on my website [AugustSchleich.com](AugustSchleich.com)
+Apart from coding i also maintain a blog on my website <a href='AugustSchleich.com'>AugustSchleich.com</a>
 
 ⚙️  Technologies And Tools
 
