@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is August and im a software developer based in SF Bay Area! 
+Im August and im a software developer based in SF Bay Area! 
 
 <!--  Blog & Articles
 
