@@ -13,3 +13,4 @@ Apart from coding I also maintain a blog on my website [AugustSchleich.com](http
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- Blog & Articles -->
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
