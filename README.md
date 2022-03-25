@@ -14,7 +14,7 @@ Apart from coding I also maintain a blog on my website [AugustSchleich.com](http
 <!-- Blog & Articles -->
 
 
-[![Augusts's GitHub stats](https://github-readme-stats.vercel.app/api?username=august-schleich&show_icons=true&theme=dracula)](https://github.com/August-Schleich)
+[![Augusts's GitHub stats](https://github-readme-stats.vercel.app/api?username=august-schleich&show_icons=true&theme=merko](https://github.com/August-Schleich)
 
 
 
