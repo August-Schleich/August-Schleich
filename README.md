@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im August and im a software developer based in SF Bay Area! 
+Im August and im a software developer based in The Bay Area! 
 
 Apart from coding I also maintain a blog on my website [AugustSchleich.com](https://github.com/August-Schleich)
 
