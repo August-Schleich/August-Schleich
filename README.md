@@ -16,10 +16,7 @@ Apart from coding I also maintain a blog on my website [AugustSchleich.com](http
 
 <!-- ![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=august-schleich&show_icons=true) -->
 
-![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=radical)(https://github.com/August-Schleich)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
+[![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=radical)](https://github.com/August-Schleich)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
