@@ -37,7 +37,6 @@ Apart from coding I also maintain a blog on my website [AugustSchleich.com](http
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=august-schleich&theme=tokyonight)](https://github.com/august-schleich) -->
 
 
