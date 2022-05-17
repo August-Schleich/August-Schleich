@@ -4,10 +4,10 @@ Im August and im a software developer based in the SF Bay Area!
 
 Apart from coding I also maintain a blog on my website [AugustSchleich.com](https://github.com/August-Schleich)
 
-- 🔭 I’m currently working on StickerFiend an E-Commerce website with Django and Vuejs (first time using Vuejs! Im learning! 🙃 )
-- 🌱 I’m currently learning web development with Python frameworks like Django and Flask
-- 👯 I’m looking to contribute to some open source projects in the future!
-- 📫  Check out my website above or DM me on Twitter to connect!
+- I’m currently working on StickerFiend an E-Commerce website with Django and Vuejs (first time using Vuejs! Im learning! 🙃 )
+- Currently learning web development with Python frameworks like Django and Flask
+- I’m looking to contribute to some open source projects in the future! 👯
+- Check out my website above or DM me on Twitter to connect!
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
