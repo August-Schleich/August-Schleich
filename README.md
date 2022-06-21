@@ -1,11 +1,11 @@
-### Hi there 
+### Hi there!
 
-Im August and im a software developer based in the SF Bay Area! 
+Im August, a software developer based in the SF Bay Area! 
 
 Check out my website at [AugustSchleich.com](https://github.com/August-Schleich)
 
-- I’m currently working on StickerFiend an E-Commerce website with Django and Vuejs (first time using Vuejs! Im learning! 🙃 )
-- I build web applications with Python frameworks like Django and Flask!
+- I’m currently working on a project with Django, Tailwind and HTMX
+- I specialize in building web applications with Python frameworks like Django and Flask!
 - I would love to contribute to some open source projects in the future! 👯
 - Check out my website above or DM me on Twitter to connect!
 
