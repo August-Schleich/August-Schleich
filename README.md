@@ -2,11 +2,10 @@
 
 Im August, a software developer based in the SF Bay Area! 
 
-Check out my website at [AugustSchleich.com](https://github.com/August-Schleich)
+Check out my website at [AugustSchleich.com](www.augustschleich.com)
 
 - I specialize in building web applications with Python frameworks like Django and Flask!
-- I’m currently working on a project with Django, Tailwind and HTMX
-- I would love to contribute to some open source projects in the future! 👯
+
 - Check out my website above or DM me on Twitter to connect!
 
 
