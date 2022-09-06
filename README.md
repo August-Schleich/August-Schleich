@@ -2,8 +2,6 @@
 
 Im August, a software developer based in the SF Bay Area! 
 
-Check out my website at [AugustSchleich.com](www.augustschleich.com)
-
 - I specialize in building web applications with Python frameworks like Django and Flask!
 
 - Check out my website above or DM me on Twitter to connect!
