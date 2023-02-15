@@ -6,7 +6,7 @@ Im August, a software developer based in the SF Bay Area!
 
 - Check out my website or DM me on Twitter to connect!
  
- ([Augustschleich.com]https://www.augustschleich.com/)
+ [Augustschleich.com](https://www.augustschleich.com/)
 
 [![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=tokyonight)](https://github.com/August-Schleich)
 
