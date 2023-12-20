@@ -1,6 +1,6 @@
 ### Hi there!
 
-Im August, a software developer based in the SF Bay Area! 
+I'm August, a software developer based in the SF Bay Area! 
 
 - I specialize in building web applications with Python frameworks like Django and Flask!
 
@@ -8,7 +8,7 @@ Im August, a software developer based in the SF Bay Area!
  
      [Augustschleich.com](https://www.augustschleich.com/)
 
-[![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=tokyonight)](https://github.com/August-Schleich)
+<!-- [August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=tokyonight)](https://github.com/August-Schleich) -->
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
