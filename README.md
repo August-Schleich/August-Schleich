@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm August, a software developer based in the SF Bay Area! 
+I'm August, an IT professional based in the SF Bay Area! 
 
 - I specialize in building web applications with Python frameworks like Django and Flask!
 
