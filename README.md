@@ -2,11 +2,10 @@
 
 I'm August, an IT professional based in the SF Bay Area! 
 
-- I specialize in building web applications with Python frameworks like Django and Flask!
-
+<!-- - I specialize in building web applications with Python frameworks like Django and Flask!
 - Check out my website or DM me on Twitter to connect!
  
-     [Augustschleich.com](https://www.augustschleich.com/)
+     [Augustschleich.com](https://www.augustschleich.com/) -->
 
 <!-- [August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=tokyonight)](https://github.com/August-Schleich) -->
 
