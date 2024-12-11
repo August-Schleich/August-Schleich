@@ -20,6 +20,7 @@ I'm August, an IT professional based in the SF Bay Area!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![comptia-network-ce-certification 1](https://github.com/user-attachments/assets/ca3805ac-dbc5-482d-9095-38dfbfb33529)
+![Sec+ logo 60px](https://github.com/user-attachments/assets/c1f7c1c1-ff32-4d8a-81fc-341b385f8435)
 
 
 
