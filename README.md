@@ -18,6 +18,7 @@ I'm August, an IT professional based in the SF Bay Area!
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ![comptia-network-ce-certification 1](https://github.com/user-attachments/assets/ca3805ac-dbc5-482d-9095-38dfbfb33529)
 ![Sec+ logo 60px](https://github.com/user-attachments/assets/c1f7c1c1-ff32-4d8a-81fc-341b385f8435)
