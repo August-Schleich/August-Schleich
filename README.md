@@ -6,7 +6,7 @@ I'm August, an IT professional based in the SF Bay Area!
 - Check out my website or DM me on Twitter to connect!
  
      [Augustschleich.com](https://www.augustschleich.com/) -->
- [August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=tokyonight)](https://github.com/August-Schleich) 
+ <!-- [August's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Schleich&show_icons=true&theme=tokyonight)](https://github.com/August-Schleich) -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
