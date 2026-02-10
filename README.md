@@ -38,7 +38,7 @@ I’m an IT professional based in the SF Bay Area, specializing in **systems adm
 
 ## 📫 Connect with me
 
-- Portfolio: [AugustSchleich.com](https://augustschleich.com)  
+- Portfolio: [AugustSchleich.com](www.augustschleich.com)  
 - GitHub: [August-Schleich](https://github.com/August-Schleich)  
 - LinkedIn: [August Schleich](https://linkedin.com/in/augustschleich)
 
